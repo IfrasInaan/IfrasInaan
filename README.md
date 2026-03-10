@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ahmed Ifras 👋
 
-<!--
-**IfrasInaan/IfrasInaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BSc Computer Science graduate and Math Educator at Team Comrade Institute.  
+I am passionate about Artificial Intelligence, Machine Learning, and Python development.  
+I enjoy solving problems, building projects, and teaching mathematics.
 
-Here are some ideas to get you started:
+## 🛠 Tools & Platforms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- scikit-learn
+- TensorFlow
+- GitHub
+
+## 🚀 Currently Learning
+
+- Currently working on AI and Machine Learning projects.
+
+## 📂 Projects
+
+- AI Driven ERP System
+- House Price Predition
+- Machine Learning Projects
+
+## 👨‍🏫 Teaching
+
+I currently teach mathematics for Grade 6–11 students at Team Comrade Educational Institute.  
+I focus on helping students understand concepts clearly and improve their problem-solving skills.  
