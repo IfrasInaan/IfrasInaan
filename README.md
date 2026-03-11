@@ -28,3 +28,8 @@ I enjoy solving problems, building projects, and teaching mathematics.
 
 I currently teach mathematics for Grade 6–11 students at Team Comrade Educational Institute.  
 I focus on helping students understand concepts clearly and improve their problem-solving skills.  
+
+## 📫 How to reach me
+
+- Email: ahmedifras2001@gmail.com
+- LinkedIn: www.linkedin.com/in/ahmed-ifras
