@@ -23,6 +23,7 @@ I enjoy solving problems, building projects, and teaching mathematics.
 - AI Driven ERP System
 - House Price Predition
 - Machine Learning Projects
+- Private Chat System Using Socket Programming
 
 ## 👨‍🏫 Teaching
 
