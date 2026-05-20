@@ -1,36 +1,50 @@
-# Hi, I'm Ahmed Ifras 👋
+# Ahmed Ifras
 
-BSc Computer Science graduate and Math Educator at Team Comrade Institute.  
-I am passionate about Artificial Intelligence, Machine Learning, and Python development.  
-I enjoy solving problems, building projects, and teaching mathematics.
+BSc Computer Science graduate with a strong foundation in **Computer Networking, IT Infrastructure, and Cybersecurity fundamentals**.  
+Focused on building reliable network-based systems and developing practical problem-solving skills in real-world communication environments.
 
-## 🛠 Tools & Platforms
+---
 
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- scikit-learn
-- TensorFlow
-- GitHub
+## Technical Skills
 
-## 🚀 Currently Learning
+- Computer Networking (TCP/IP, OSI Model, Routing, Subnetting)
+- Socket Programming (Client–Server Architecture)
+- Network Simulation (Cisco Packet Tracer)
+- Network Analysis (Wireshark)
+- Python Programming
+- Database Systems (SQLite)
+- Web Development (HTML, CSS, JavaScript)
+- Git & GitHub
 
-- Currently working on AI and Machine Learning projects.
+---
 
-## 📂 Projects
+## Current Focus
 
-- AI Driven ERP System
-- House Price Predition
-- Machine Learning Projects
-- Private Chat System Using Socket Programming
+- Advanced Computer Networking concepts  
+- Cybersecurity fundamentals and secure communication systems  
+- Cloud Computing (Microsoft Azure basics)  
+- Practical network system design and implementation  
 
-## 👨‍🏫 Teaching
+---
 
-I currently teach mathematics for Grade 6–11 students at Team Comrade Educational Institute.  
-I focus on helping students understand concepts clearly and improve their problem-solving skills.  
+## Projects
 
-## 📫 How to reach me
+- Private Chat System Using Socket Programming (TCP/IP, Multi-threaded Client–Server Architecture)
+- Enterprise System with Backend Integration (Full-stack academic project)
+- Image Processing & Classification System
+- House Price Prediction Web Application
+
+---
+
+## Teaching Experience
+
+Mathematics Instructor for Grade 6–11 students at an educational institute.  
+Focused on strengthening conceptual understanding and analytical problem-solving skills.
+
+---
+
+## Contact
 
 - Email: ahmedifras2001@gmail.com
 - LinkedIn: www.linkedin.com/in/ahmed-ifras
+- GitHub: github.com/IfrasInaan
